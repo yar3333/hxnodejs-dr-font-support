@@ -5,7 +5,7 @@
   "description": "Clientside script to detect woff2, woff, ttf or svg font support",
   "contributors": ["yar3333"],
   "releasenote": "Init.",
-  "version": "1.0.0",
+  "version": "0.3.6",
   "url": "https://bitbucket.org/yar3333/hxnodejs-dr-font-support",
   "dependencies": {}
 }
