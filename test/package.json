@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "main": "bin/index.js",
+  "dependencies": {
+    "dr-font-support": ""
+  }
+}
